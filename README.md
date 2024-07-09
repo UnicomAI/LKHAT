@@ -6,6 +6,8 @@
   
 ![image](https://github.com/mzccc1999/LKHAT/blob/main/fig/architecture.png)
 
+- More information can be found at: https://github.com/mzccc1999/LKHAT
+
 ## The codes are based on HAT https://github.com/XPixelGroup/HAT/tree/main
 
 ## Environment
